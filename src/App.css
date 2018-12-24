@@ -7,9 +7,14 @@
   height: 40vmin;
 }
 
+.linkPadding: {
+  padding: 10px 20px;
+  display:  inline;
+}
+
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 50px;
   display: flex;
   flex-direction: column;
   align-items: center;
